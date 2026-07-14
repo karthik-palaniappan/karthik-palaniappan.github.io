@@ -1,17 +1,18 @@
 project:
   type: website
-  output-dir: _site
 
 website:
-  title: "August Academy"
+  title: "Scientific Computing Lab | August Academy"
+  site-url: "https://karthik-palaniappan.github.io"
+  favicon: assets/favicon/AU-favicon.png
 
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
+    logo: assets/logo/AugustAcademy-logo.png
+    logo-alt: "August Academy"
 
-      - href: projects.qmd
-        text: Projects
+    left:
+      - href: research.qmd
+        text: Research
 
       - href: about.qmd
         text: About
@@ -19,12 +20,32 @@ website:
     right:
       - icon: github
         href: https://github.com/karthik-palaniappan
+        aria-label: GitHub
+
+      - icon: linkedin
+        href: https://www.linkedin.com/in/karthikpalaniappan/
+        aria-label: LinkedIn
+
+  search:
+    location: navbar
+    type: textbox
+
+  page-footer:
+    left: |
+      © 2026 August Academy · Scientific Computing Lab
+
+    right: |
+      [GitHub](https://github.com/karthik-palaniappan) ·
+      [LinkedIn](https://www.linkedin.com/in/karthikpalaniappan/)
 
 format:
   html:
-    theme: cosmo
+    theme: default
     css: styles.scss
-    toc: true
+
+    toc: false
+    smooth-scroll: true
+    anchor-sections: true
 
 execute:
   freeze: auto

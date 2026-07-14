@@ -1,0 +1,59 @@
+---
+title: "Research"
+---
+
+Our interests span scientific computing, numerical algorithms, machine learning, and quantitative finance. The topics below represent our current areas of research. Over time, each of these will evolve into detailed articles, software, visualizations, and open-source tools.
+
+---
+
+## Quantitative Research Platform
+
+We have built a multi-broker capable trading platform in Python that supports market data archiving (currently tick snapshots with market depth and end-of-day one-minute candle data), market replay, paper and live trading, and rapid development of multiple strategies and risk frameworks through an object-oriented architecture.
+
+---
+
+## Research Visualization
+
+We would like to understand how numbers relate to each other by going beyond candle-level visualization.
+
+---
+
+## Cash Flow Analysis
+
+OHLCV hides cash flow volumes. What stock is seeing the most trade at the moment?
+
+---
+
+## What is Moving the Market?
+
+We know that indices like the NIFTY 50 are market-cap weighted. What shares are contributing to the last minute's move? How does this change over the last 30 minutes? Can current cash flow help predict where the market is headed over the next few minutes?
+
+---
+
+## Interconnected Markets
+
+Can we tie the NASDAQ, London, Singapore, USDINR, Gold, and Crude movements to current stock price movements?
+
+---
+
+## Feature Engineering
+
+There are technical indicators, and then there are custom technical indicators built from statistical analysis.
+
+---
+
+## Statistical Arbitrage
+
+Which instruments move together? What does it mean when they are out of sync? This is not just about developing arbitrage methods, but also about understanding which instruments are highly correlated.
+
+---
+
+## Machine Learning for Market Analysis
+
+How do we study interconnectedness between instruments in a way that goes beyond our statistical intuition?
+
+---
+
+## Neural Networks for Market Problems
+
+Could we develop neural operators, such as the Fourier Neural Operator, for simple market problems like studying volatility?
