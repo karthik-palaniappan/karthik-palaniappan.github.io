@@ -72,34 +72,18 @@ Today, my interests lie in building computational tools that enable rigorous, re
 
 <a href="https://github.com/karthik-palaniappan"
    title="GitHub"
-   target="_blank">
-
-<i class="bi bi-github"></i>
-
-</a>
+   target="_blank"><i class="bi bi-github"></i></a>
 
 <a href="https://www.linkedin.com/in/karthikpalaniappan/"
    title="LinkedIn"
-   target="_blank">
-
-<i class="bi bi-linkedin"></i>
-
-</a>
+   target="_blank"><i class="bi bi-linkedin"></i></a>
 
 <a href="http://aero-comlab.stanford.edu/karthik/index.html"
    title="Stanford Research"
-   target="_blank">
-
-<i class="bi bi-mortarboard-fill"></i>
-
-</a>
+   target="_blank"><i class="bi bi-mortarboard-fill"></i></a>
 
 <a href="https://mbaadmissions.augustacademy.in"
    title="August Academy"
-   target="_blank">
-
-<i class="bi bi-globe"></i>
-
-</a>
+   target="_blank"><i class="bi bi-globe"></i></a>
 
 </div>
