@@ -41,8 +41,9 @@ website:
 
 format:
   html:
-    theme: default
-    css: styles.scss
+    theme:
+      - default
+      - styles.scss
 
     toc: false
     smooth-scroll: true
