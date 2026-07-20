@@ -56,38 +56,28 @@ Founder<br>
 Scientific Computing Lab, August Academy
 </div>
 
-<div class="founder">
+<img
+    src="assets/images/founder/kp1.jpeg"
+    alt="Karthik Palaniappan"
+    class="founder-photo">
 
-  <div class="founder-photo-column">
-    <img
-      src="assets/images/founder/kp1.jpeg"
-      alt="Karthik Palaniappan"
-      class="founder-photo">
-  </div>
+<p>
+I began my research career at Stanford University developing numerical
+algorithms for computational fluid dynamics, optimization,
+high-performance scientific computing, and optimization. Since then,
+my work has spanned industrial research and development, software
+engineering, entrepreneurship, and quantitative finance.
+</p>
 
-  <div class="founder-text">
+<p>
+Today, my interests lie in building computational tools that enable
+rigorous, reproducible quantitative research and making advanced
+computational methods more accessible to researchers and practitioners.
+</p>
 
-    <p>
-      I began my research career at Stanford University developing numerical
-      algorithms for computational fluid dynamics, optimization,
-      high-performance scientific computing, and optimization. Since then,
-      my work has spanned industrial research and development, software
-      engineering, entrepreneurship, and quantitative finance.
-    </p>
-
-    <p>
-      Today, my interests lie in building computational tools that enable
-      rigorous, reproducible quantitative research and making advanced
-      computational methods more accessible to researchers and practitioners.
-    </p>
-
-    <p>
-      <a href="about.html">Read more →</a>
-    </p>
-
-  </div>
-
-</div>
+<p>
+<a href="about.html">Read more →</a>
+</p>
 
 </section>
 ```

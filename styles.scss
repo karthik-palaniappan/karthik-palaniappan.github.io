@@ -173,6 +173,39 @@ Navigation
  Founder
 -----------------------------------------------------------------------------*/
 
+.founder-photo {
+
+    float: left;
+
+    width: 260px;
+
+    max-width: 40%;
+
+    height: auto;
+
+    margin: 0 2rem 1rem 0;
+
+    border-radius: 8px;
+}
+
+.founder-title {
+
+    color: darken($aa-blue, 20%);
+
+    margin-bottom: 1rem;
+
+    font-weight: 500;
+}
+
+.founder-section::after {
+
+    content: "";
+
+    display: block;
+
+    clear: both;
+}
+
 .founder {
     display: flex;
     gap: 2rem;
@@ -184,21 +217,8 @@ Navigation
     flex: 0 0 260px;
 }
 
-.founder-photo {
-    width: 100%;
-    height: auto;
-    display: block;
-    border-radius: 8px;
-}
-
 .founder-text {
     flex: 1;
-}
-
-.founder-title {
-    color: darken($aa-blue, 20%);
-    margin-bottom: 1rem;
-    font-weight: 500;
 }
 
 
@@ -256,12 +276,14 @@ Navigation
     .founder-photo {
 
         float: none;
-
+ 
         display: block;
+  
+        margin: 0 auto 1.5rem auto;
 
-        margin: auto auto 1.5rem auto;
+        width: 220px;
 
-        width: 200px;
+        max-width: 100%;
     }
 
     .hero-tagline {
