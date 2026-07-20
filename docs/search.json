@@ -74,7 +74,7 @@
     "href": "index.html#karthik-palaniappan",
     "title": "Scientific Computing Lab | August Academy",
     "section": "Karthik Palaniappan",
-    "text": "Karthik Palaniappan\n\nFounder\nScientific Computing Lab, August Academy\n\n\nI began my research career at Stanford University developing numerical algorithms for computational fluid dynamics, optimization, high-performance scientific computing, and optimization. Since then, my work has spanned industrial research and development, software engineering, entrepreneurship, and quantitative finance.\nToday, my interests lie in building computational tools that enable rigorous, reproducible quantitative research and making advanced computational methods more accessible to researchers and practitioners.\nRead more →"
+    "text": "Karthik Palaniappan\n\n\nKarthik Palaniappan\n\n\nFounder\nScientific Computing Lab, August Academy\n\n\n\n\n  \n    \n  \n\n  \n\n    \n      I began my research career at Stanford University developing numerical\n      algorithms for computational fluid dynamics, optimization,\n      high-performance scientific computing, and optimization. Since then,\n      my work has spanned industrial research and development, software\n      engineering, entrepreneurship, and quantitative finance.\n    \n\n    \n      Today, my interests lie in building computational tools that enable\n      rigorous, reproducible quantitative research and making advanced\n      computational methods more accessible to researchers and practitioners.\n    \n\n    \n      Read more →"
   },
   {
     "objectID": "index.html#connect",
@@ -166,6 +166,41 @@
     "title": "Research",
     "section": "Neural Networks for Market Problems",
     "text": "Neural Networks for Market Problems\nCould we develop neural operators, such as the Fourier Neural Operator, for simple market problems like studying volatility?"
+  },
+  {
+    "objectID": "index copy.html",
+    "href": "index copy.html",
+    "title": "Scientific Computing Lab | August Academy",
+    "section": "",
+    "text": "Computational Methods · Research Software · Quantitative Finance"
+  },
+  {
+    "objectID": "index copy.html#about-the-lab",
+    "href": "index copy.html#about-the-lab",
+    "title": "Scientific Computing Lab | August Academy",
+    "section": "About the Lab",
+    "text": "About the Lab\nWe love rapid calculations using novel computational methods. We enjoy advancing machine learning and artificial intelligence, and understanding how these tools can be used to solve scientific and engineering problems. Quantitative finance is a natural application area because of the richness of the available data. The fact that real capital is involved raises the bar even higher—it is no longer just about numerical stability, accuracy, and computational speed. Real money is made or lost depending on the efficacy of our systems. That provides the ultimate validation of whether what we build actually works.\n\nLearn more about the lab →"
+  },
+  {
+    "objectID": "index copy.html#current-research",
+    "href": "index copy.html#current-research",
+    "title": "Scientific Computing Lab | August Academy",
+    "section": "Current Research",
+    "text": "Current Research\n\nQuantitative Research Platform\nResearch Visualization\nCash Flow Analysis\nFeature Engineering\nWhat is Moving the Market?\nInterconnected Markets\nStatistical Arbitrage\nMachine Learning for Market Analysis\nNeural Networks for Market Problems\n\n\nExplore all research →"
+  },
+  {
+    "objectID": "index copy.html#karthik-palaniappan",
+    "href": "index copy.html#karthik-palaniappan",
+    "title": "Scientific Computing Lab | August Academy",
+    "section": "Karthik Palaniappan",
+    "text": "Karthik Palaniappan\n\nFounder\nScientific Computing Lab, August Academy\n\n\nI began my research career at Stanford University developing numerical algorithms for computational fluid dynamics, optimization, high-performance scientific computing, and optimization. Since then, my work has spanned industrial research and development, software engineering, entrepreneurship, and quantitative finance.\nToday, my interests lie in building computational tools that enable rigorous, reproducible quantitative research and making advanced computational methods more accessible to researchers and practitioners.\nRead more →"
+  },
+  {
+    "objectID": "index copy.html#connect",
+    "href": "index copy.html#connect",
+    "title": "Scientific Computing Lab | August Academy",
+    "section": "Connect",
+    "text": "Connect"
   },
   {
     "objectID": "projects.html",

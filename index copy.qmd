@@ -48,51 +48,20 @@ We love rapid calculations using novel computational methods. We enjoy advancing
 
 ## Karthik Palaniappan
 
-```{=html}
-<section class="founder-section">
-
-<h2>Karthik Palaniappan</h2>
-
 <div class="founder-title">
-Founder<br>
+
+Founder  
 Scientific Computing Lab, August Academy
-</div>
-
-<div class="founder">
-
-  <div class="founder-photo-column">
-    <img
-      src="assets/images/founder/kp1.jpeg"
-      alt="Karthik Palaniappan"
-      class="founder-photo">
-  </div>
-
-  <div class="founder-text">
-
-    <p>
-      I began my research career at Stanford University developing numerical
-      algorithms for computational fluid dynamics, optimization,
-      high-performance scientific computing, and optimization. Since then,
-      my work has spanned industrial research and development, software
-      engineering, entrepreneurship, and quantitative finance.
-    </p>
-
-    <p>
-      Today, my interests lie in building computational tools that enable
-      rigorous, reproducible quantitative research and making advanced
-      computational methods more accessible to researchers and practitioners.
-    </p>
-
-    <p>
-      <a href="about.html">Read more →</a>
-    </p>
-
-  </div>
 
 </div>
 
-</section>
-```
+![](assets/images/founder/kp1.jpeg){.founder-photo}
+
+I began my research career at Stanford University developing numerical algorithms for computational fluid dynamics, optimization, high-performance scientific computing, and optimization. Since then, my work has spanned industrial research and development, software engineering, entrepreneurship, and quantitative finance.
+
+Today, my interests lie in building computational tools that enable rigorous, reproducible quantitative research and making advanced computational methods more accessible to researchers and practitioners.
+
+[Read more →](about.qmd)
 
 ---
 
