@@ -169,29 +169,32 @@ Navigation
  Founder
 -----------------------------------------------------------------------------*/
 
+.founder {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+    margin-top: 1.5rem;
+}
+
+.founder-photo-column {
+    flex: 0 0 260px;
+}
+
 .founder-photo {
-
-    float: left;
-
-    width: 220px;
-
-    margin: .25rem 2rem 1rem 0;
-
+    width: 100%;
+    height: auto;
+    display: block;
     border-radius: 8px;
 }
 
-.founder-name {
-
-    margin-bottom: .25rem;
+.founder-text {
+    flex: 1;
 }
 
 .founder-title {
-
-    color: $muted-text;
-
-    font-size: .95rem;
-
-    margin-bottom: 1.5rem;
+    color: darken($aa-blue, 20%);
+    margin-bottom: 1rem;
+    font-weight: 500;
 }
 
 
