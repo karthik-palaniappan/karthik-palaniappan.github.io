@@ -46,8 +46,6 @@ We love rapid calculations using novel computational methods. We enjoy advancing
 
 ---
 
-## Karthik Palaniappan
-
 ```{=html}
 <section class="founder-section">
 
